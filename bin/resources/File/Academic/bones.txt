@@ -1,0 +1,16 @@
+Bones in Human Bodies
+phalanges
+humerus
+mandible
+patella
+metacarpals
+ischium
+sternum
+clavicle
+tibia
+ulna
+scapula
+radius
+metatarsals
+ilium
+cranium
