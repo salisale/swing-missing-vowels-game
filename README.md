@@ -3,7 +3,8 @@ Silly but fun word puzzles! <br />
 
 **Rule**: *Guess well-known names, phrases, or words where vwls have been taken out and cn snnts re-spaced!* <br />
 **Inspired by**: Missing Vowels round of BBC's *Only Connect* <br />
-**Tool**: Java Swing GUI
+**Tool**: Java Swing GUI <br />
+**Created**: July, 2015
 
 <p align="center">
   <img src="https://i.imgur.com/H6DEVKW.gif">
