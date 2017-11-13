@@ -1,9 +1,13 @@
 ## Missing Vowels Game
-Silly but fun word puzzles! <br/>
+Silly but fun word puzzles! <br />
 
-**Rule**: *Guess well-known names, phrases, or words where vwls have been taken out and cn snnts re-spaced!* <br/>
-**Inspired by**: Missing Vowels round of BBC's *Only Connect* <br/>
+**Rule**: *Guess well-known names, phrases, or words where vwls have been taken out and cn snnts re-spaced!* <br />
+**Inspired by**: Missing Vowels round of BBC's *Only Connect* <br />
 **Tool**: Java Swing GUI
+
+<p align="center">
+  <img src="https://i.imgur.com/H6DEVKW.gif">
+</p>
 
 ### Categories
    -  Entertainment
@@ -26,3 +30,8 @@ Silly but fun word puzzles! <br/>
      - Latin phrases and their translations
      - Phobia and their causes
      - Sexual words
+     
+ 
+<p align="center">
+  <img src="https://i.imgur.com/sLbBrRz.gif">
+</p>
