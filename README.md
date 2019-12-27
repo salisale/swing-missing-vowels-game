@@ -11,27 +11,12 @@ Silly but fun word puzzles! <br />
 </p>
 
 ### Categories
-   -  Entertainment
-      - 100% on Rotten Tomatoes
-      - Horror flicks
-      - Leonardo DiCaprio's films
-      - 2015's Oscar-winning movies
-      - Time travel movies
-
-  -  Academic Subjects
-     - Bones in human bodies
-     - Capitals and their countries
-     - Philosophical works
-     - Scientists and their contribution
-     - Shakespeare's Plays
-
-  -  Vocabulary
-     - Animals and their adjectives
-     - Collectors and their items
-     - Latin phrases and their translations
-     - Phobia and their causes
-     - Sexual words
-     
+  -  Entertainment <br /> 
+  &nbsp;&nbsp;&nbsp;&nbsp; e.g. 100% on Rotten Tomatoes, 2015's Oscar-winning movies, Time travel movies
+  -  Academic Subjects <br /> 
+  &nbsp;&nbsp;&nbsp;&nbsp; e.g. Capitals and their countries, Bones in human bodies, Scientists and their contribution
+  -  Vocabulary <br /> 
+  &nbsp;&nbsp;&nbsp;&nbsp; e.g. Latin phrases and their translations, Animals and their adjectives, Collectors and their items, Phobia and their causes
  
 <p align="center">
   <img src="https://i.imgur.com/sLbBrRz.gif">
